@@ -3,7 +3,9 @@ OLTP OLAP Normalized Relations Document Database Graph Database MongoDB Neo4J Po
 
 
 This folder includes:
+
 1/ Academic paper in PDF
+
 2/ Code in Pymongo, Cipher, and PostgreSQL
 
 
